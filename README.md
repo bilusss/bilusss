@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luke</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<h1 align="center">Hi 👋, I'm Łukasz</h1>
+<h3 align="center">An ICT student at AGH UST and huge fan of technology</h3>
 
 # 🏄‍♂️ About Me:
 🔭 I’m currently working on [Simple Calculator App on iOS](https://github.com/bilusss/Calculator) <br> 
