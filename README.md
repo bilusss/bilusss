@@ -2,9 +2,9 @@
 <h3 align="center">An ICT student at AGH UST and huge fan of technology</h3>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently working on [Simple Calculator App on iOS](https://github.com/bilusss/Calculator) <br> 
-🌱 I’m currently learning **Swift,** **Java,** **Machine Learning** <br> 
-📫 How to reach me: **bukaszlilski@gmail.com** <br>
+##🔭 I’m currently working on [Simple Calculator App on iOS](https://github.com/bilusss/Calculator) <br> 
+##🌱 I’m currently learning **Swift,** **Java,** **Machine Learning** <br> 
+##📫 How to reach me: **bukaszlilski@gmail.com** <br>
 
 # 🌐 Socials:
 <p align="left">
