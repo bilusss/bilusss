@@ -13,8 +13,8 @@
   </a>
   <a href="https://www.instagram.com/0xbilus" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    ig is private:)
   </a>
+  ig is private:)
 </p>
 
 # 👨‍💻 🛠️ Languages and Tools:
@@ -57,5 +57,5 @@
 
 # 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bilusss&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00D43F&border=8A00EB&background=45%2C000000%2C000000&ring=8A00EB&currStreakNum=00D43F&currStreakLabel=00D43F&sideNums=8A00EB&sideLabels=7600B6&dates=B63A8E&stroke=8A00EB" alt="GitHub Streak" /></a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&show_icons=true&locale=en&layout=compact" alt="bilusss" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&show_icons=true&locale=en&layout=compact" alt="bilusss" />
 </p>
