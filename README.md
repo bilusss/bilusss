@@ -57,6 +57,6 @@
 
 # 📊 GitHub Stats:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bilusss&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=00D43F&border=8A00EB&background=45%2C000000%2C000000&ring=8A00EB&currStreakNum=00D43F&currStreakLabel=00D43F&sideNums=8A00EB&sideLabels=7600B6&dates=B63A8E&stroke=8A00EB" alt="GitHub Streak" /></a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&show_icons=true&locale=en&layout=compact&title_color=8A00EB&text_color=8A00EB&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&show_icons=true&locale=en&layout=donut&title_color=8A00EB&text_color=8A00EB&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/>
 </p>
 
