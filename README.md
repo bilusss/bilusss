@@ -3,7 +3,7 @@
 
 # 🏄‍♂️ About Me:
 🔭 I’m currently working on [Simple Calculator App on iOS](https://github.com/bilusss/Calculator) <br> 
-🌱 I’m currently learning **Swift,** **Java,** **Machine Learning** <br> 
+🌱 I’m currently learning **Java, JS, Swift, Machine Learning** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** <br>
 
 # 🌐 Socials:
