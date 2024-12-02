@@ -2,7 +2,7 @@
 <h3 align="center">An ICT student at AGH UST and huge fan of technology</h3>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently working on [Simple Calculator App on iOS](https://github.com/bilusss/Calculator) <br> 
+🔭 I’m currently working on [TradingSignalApp](https://github.com/bilusss/TradingSignalApp) <br> 
 🌱 I’m currently learning **Java, JS, Swift, Machine Learning** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** <br>
 
