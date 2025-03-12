@@ -80,5 +80,6 @@
 </p>
 
 # 📊 GitHub Stats:
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&show_icons=true&locale=en&layout=donut&title_color=8A00EB&text_color=00D43F&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/>
+  <!--img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=donut&title_color=8A00EB&text_color=00D43F&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bilusss&show_icons=true&theme=transparent&title_color=8A00EB&text_color=00D43F&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/>
 </p>
