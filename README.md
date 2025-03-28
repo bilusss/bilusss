@@ -8,7 +8,7 @@
 </p>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently working on [TradingSignalApp](https://github.com/bilusss/TradingSignalApp), [Job Web Scraper](https://github.com/bilusss/JobScraping), [Calculator written in Swift](https://github.com/bilusss/Calculator) <br> 
+🔭 I’m currently working on [Job Web Scraper](https://github.com/bilusss/JobScraping) <br> 
 🌱 I’m currently learning **Python, Java, Swift, Machine Learning** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** <br>
 
