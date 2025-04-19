@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">An ICT student at AGH UST and huge fan of technology</h3>
+<h3 align="center">Also member of BEST AGH KRAKÓW and BLOCKCHAIN AGH</h3>
 
 <p>
 <!--   🔭 I’m currently working on [TradingSignalApp](https://github.com/bilusss/TradingSignalApp) <br>
