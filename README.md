@@ -10,7 +10,7 @@
 
 # 🏄‍♂️ About Me:
 🔭 I’m currently working on [Job Web Scraper](https://github.com/bilusss/JobScraping) <br> 
-🌱 I’m currently learning **Python, Java, Swift, Machine Learning** <br> 
+🌱 I’m currently learning **Python, Java, Machine Learning** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** <br>
 
 # 🌐 Socials:
