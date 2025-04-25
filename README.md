@@ -9,7 +9,7 @@
 </p>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently trying to **get a internship :)** <br> 
+🔭 I’m currently trying to **get an internship :)** <br> 
 🌱 I’m currently learning **Python, Java, Machine Learning** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** <br>
 
