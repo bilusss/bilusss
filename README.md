@@ -4,13 +4,14 @@
 
 <p>
 <!--   🔭 I’m currently working on [TradingSignalApp](https://github.com/bilusss/TradingSignalApp) <br>
-  🔭 I’m currently working on [Job Web Scraper](https://github.com/bilusss/JobScraping)) <br> 
+  🔭 I’m currently working on [Job Web Scraper](https://github.com/bilusss/JobScraping) <br> 
   🔭 I’m currently working on [Calculator written in Swift](https://github.com/bilusss/Calculator) <br>  -->
 </p>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently trying to **get an internship :)** <br> 
-🌱 I’m currently learning **Python, Java, Machine Learning** <br> 
+🔭 I’m currently trying to **get an internship :)** <br>
+🔭 I’m currently working on [BITEHackWebsite](https://github.com/bilusss/BITEHackWebsite) <br>
+🌱 I’m currently learning **Java, React, AI** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** <br>
 
 # 🌐 Socials:
