@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">An ICT student at AGH UST and huge fan of technology</h3>
 <h3 align="center">Also member of BEST AGH KRAKÓW and BLOCKCHAIN AGH</h3>
+<h3 align="center">Member of BITEhack's coreteam - We make a hackathon happen</h3>
 
 <p>
 <!--   🔭 I’m currently working on [TradingSignalApp](https://github.com/bilusss/TradingSignalApp) <br>
@@ -9,10 +10,10 @@
 </p>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently trying to **get an internship :)** <br>
-🔭 I’m currently working on [BITEHackWebsite](https://github.com/bilusss/BITEHackWebsite) <br>
-🌱 I’m currently learning **Java, React, AI** <br> 
-📫 How to reach me: **bukaszlilski@gmail.com** <br>
+🔭 I’m currently trying to **get an internship in AI :)** <br>
+🔭 I’m currently working on [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) which is private for now, can't wait to show you what I'm building! <br>
+🌱 I’m currently learning **Python, AI and useful tools such as Numpy** <br> 
+📫 How to reach me: **bukaszlilski@gmail.com** - HMU I'm always open 😀<br>
 
 # 🌐 Socials:
 <p align="left">
@@ -42,18 +43,18 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+<!-- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-</a>
+</a> -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+</a> -->
+<!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-</a>
+</a> -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
