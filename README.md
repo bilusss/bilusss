@@ -10,7 +10,7 @@
 </p>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently trying to **get an internship in AI :)** <br>
+🔭 I’m currently trying to **get an internship in Data / AI :)** <br>
 🔭 I’m currently working on [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) <br>
 🌱 I’m currently learning **Python, AI and useful tools such as Numpy** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** - HMU I'm always open 😀<br>
