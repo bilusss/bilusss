@@ -11,7 +11,7 @@
 
 # 🏄‍♂️ About Me:
 🔭 I’m currently trying to **get an internship in Data / AI :)** <br>
-🔭 I’m currently working on [Credit Risk Scoring (GiveMeSomeCredit)](https://github.com/bilusss/GiveMeSomeCredit)& [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) <br>
+🔭 I’m currently working on [Credit Risk Scoring](https://github.com/bilusss/GiveMeSomeCredit) & [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) <br>
 🌱 I’m currently learning **Python, AI and useful tools such as Pandas** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** - HMU I'm always open 😀<br>
 
