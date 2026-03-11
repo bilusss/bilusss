@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">An ICT student at AGH UST and huge fan of technology</h3>
-<h3 align="center">Also member of BEST AGH KRAKÓW</h3>
-<h3 align="center">Member of BITEhack's coreteam - We make a hackathon happen</h3>
+<h3 align="center">Member of BEST AGH KRAKÓW</h3>
+<h3 align="center">Also member of BITEhack VIII coreteam - We made a hackathon happen</h3>
 
 <p>
 <!--   🔭 I’m currently working on [TradingSignalApp](https://github.com/bilusss/TradingSignalApp) <br>
@@ -11,8 +11,8 @@
 
 # 🏄‍♂️ About Me:
 🔭 I’m currently trying to **get an internship in Data / AI :)** <br>
-🔭 I’m currently working on [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) <br>
-🌱 I’m currently learning **Python, AI and useful tools such as Numpy** <br> 
+🔭 I’m currently working on [Credit Risk Scoring (GiveMeSomeCredit)](https://github.com/bilusss/GiveMeSomeCredit)& [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) <br>
+🌱 I’m currently learning **Python, AI and useful tools such as Pandas** <br> 
 📫 How to reach me: **bukaszlilski@gmail.com** - HMU I'm always open 😀<br>
 
 # 🌐 Socials:
