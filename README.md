@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">An ICT student at AGH UST and huge fan of technology</h3>
+<h3 align="center">Member of AGH Analytica - Robodog</h3>
 <h3 align="center">Member of BEST AGH KRAKÓW</h3>
-<h3 align="center">Also member of BITEhack VIII coreteam - We made a hackathon happen</h3>
+<h3 align="center">Also member of BITEhack 2026 coreteam - We made a hackathon happen</h3>
 
 <p>
 <!--   🔭 I’m currently working on [TradingSignalApp](https://github.com/bilusss/TradingSignalApp) <br>
@@ -10,9 +11,9 @@
 </p>
 
 # 🏄‍♂️ About Me:
-🔭 I’m currently trying to **get an internship, mainly in Data :)** <br>
-🔭 I’m currently working on [Credit Risk Scoring](https://github.com/bilusss/GiveMeSomeCredit) & [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) <br>
-🌱 I’m currently learning **Python, ETL, Data, AI** <br> 
+<!--🔭 I’m currently trying to **get an internship, mainly in Data :)** <br> -->
+🔭 I’m currently working on [ViralClipsFinder](https://github.com/bilusss/ViralClipsFinder) <br>
+<!--🌱 I’m currently learning **Python, ETL, Data, AI** <br> -->
 📫 How to reach me: **bukaszlilski@gmail.com** - HMU I'm always open 😀<br>
 
 # 🌐 Socials:
@@ -90,8 +91,9 @@
 </a>
 
 </p>
-
+<!--
 # 📊 GitHub Stats:
-  <!--img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=donut&title_color=8A00EB&text_color=00D43F&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/> -->
+  <!--img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilusss&&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=donut&title_color=8A00EB&text_color=00D43F&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bilusss&show_icons=true&theme=transparent&title_color=8A00EB&text_color=00D43F&icon_color=00D43F&border_color=7600B6&bg_color=000000" alt="bilusss"/>
 </p>
+-->
